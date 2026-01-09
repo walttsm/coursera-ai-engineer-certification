@@ -1,0 +1,7 @@
+AI Capstone Project/images_dataSAT
+AI Capstone Project/images-dataSAT.tar
+deep learning with pytorch/Final project/league_of_legends_data_large.csv
+*.pth
+*.keras
+.venv
+.vscode
